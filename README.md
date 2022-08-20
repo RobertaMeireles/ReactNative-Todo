@@ -1,6 +1,6 @@
-# ReactNative-Todo
+# React Native-Todo
 
-## My first app android - React Native (expo)
+## My first app android - React Native (expo) - Firebase
 
 ## Installation
 
