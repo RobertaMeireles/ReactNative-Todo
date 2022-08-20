@@ -1,6 +1,10 @@
-# React Native-Todo
+# React Native-Todo 👋 
 
 ## My first app android - React Native (expo) - Firebase
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/59511310/185768553-52b1b3ea-0f62-4d0d-909b-fda798c07cfc.jpeg" />
+</div>
 
 ## Installation
 
