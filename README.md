@@ -11,6 +11,9 @@
 ```bash
 npm install
 ```
+
+- Create your database in firebase and include credencials it in database/firebase.js
+
 ## Run
 
 ```bash
