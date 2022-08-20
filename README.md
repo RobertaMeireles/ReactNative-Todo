@@ -21,7 +21,7 @@ expo start
 
 This project was created with help from:
 
-[React Native & Firebase Firestore CRUD (usando Expo)](https://www.youtube.com/watch?v=VE7J0SA1PRQ)
+- [React Native & Firebase Firestore CRUD (usando Expo)](https://www.youtube.com/watch?v=VE7J0SA1PRQ)
 - [React Native + Firebase: Criando um app Completo (usando Expo)](https://www.youtube.com/watch?v=0AM6AXlFwxM&t=4984s)
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
